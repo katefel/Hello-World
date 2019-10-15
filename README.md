@@ -7,3 +7,5 @@ This is the changes that I need to make and some extra code.
 Here are some more changes
 
 Some more changes
+
+These are the changes that I would like to make on the desktop version and push into the main
