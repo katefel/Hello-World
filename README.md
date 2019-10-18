@@ -8,7 +8,6 @@ Here are some more changes
 
 
 
-These are the changes that I would like to make on the desktop version and push into the main
 
 Some more changes here
 
