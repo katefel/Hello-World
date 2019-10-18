@@ -6,11 +6,9 @@ This is my first repository.  I am planning on using this in my code projects fo
 This is the changes that I need to make and some extra code.
 Here are some more changes
 
-Some more changes
+
 
 
 Some more changes here
 
-Comment on the branch here
-
-Adding a new line here
+Kates new comment
