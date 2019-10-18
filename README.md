@@ -12,3 +12,5 @@ Here are some more changes
 Some more changes here
 
 Kates new comment
+
+Some changes from the desktop
