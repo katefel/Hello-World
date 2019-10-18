@@ -6,10 +6,10 @@ This is my first repository.  I am planning on using this in my code projects fo
 This is the changes that I need to make and some extra code.
 Here are some more changes
 
-Some more changes
+
 
 These are the changes that I would like to make on the desktop version and push into the main
 
 Some more changes here
 
-Comment on the branch here
+Kates new comment
